@@ -327,21 +327,21 @@ Completed the **Generative AI course by Google Cloud** with **24 skill badges**.
 
 # 📊 GITHUB ANALYTICS
 
-> Replace `YOUR_GITHUB_USERNAME` below with the actual GitHub username before publishing.
+> Tejaswinikothakotla
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tejaswinikothakotla&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswinikothakotla&layout=compact&theme=transparent&hide_border=true" alt="Top programming languages"/>
 
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Tejaswinikothakotla&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -397,7 +397,7 @@ Completed the **Generative AI course by Google Cloud** with **24 skill badges**.
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Tejaswinikothakotla">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
